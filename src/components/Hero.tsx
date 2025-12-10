@@ -95,7 +95,7 @@ export function Hero() {
                 <span className="text-sm">LinkedIn</span>
               </a>
               <a
-                href="mailto:naveenkonada958@gmail.com"
+                href="mailto:contact@naveenkonada.me"
                 className="flex items-center gap-2 text-white hover:text-blue-200 transition-colors"
               >
                 <Mail size={20} />

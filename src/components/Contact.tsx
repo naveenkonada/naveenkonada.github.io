@@ -32,8 +32,8 @@ export function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'naveenkonada958@gmail.com',
-      href: 'mailto:naveenkonada958@gmail.com',
+      value: 'contact@naveenkonada.me',
+      href: 'mailto:contact@naveenkonada.me',
     },
     {
       icon: MapPin,
